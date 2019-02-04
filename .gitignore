@@ -6,3 +6,5 @@ coverage
 .bsb.lock
 dist
 *.bs.js
+
+.idea
